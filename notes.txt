@@ -1,0 +1,8 @@
+# Compailing 
+g++ main.cpp
+
+# Compailing and output
+g++ main.cpp -o main
+
+# Compailing and run
+g++ main.cpp -o main && main
